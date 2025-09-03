@@ -89,60 +89,59 @@
 ## 📸 **Screenshots**
 
 ### 🏠 **Hero Section**
-![Hero Section](./screenshots/HeroSection.png)
+![Hero Section](./Screenshots/HeroSection.png)
 
 ---
 
 ### 🔐 **Authentication**
 - **Login Page**
-![Login](./screenshots/Login.png)
+![Login](./Screenshots/Login.png)
 
 - **Register Page**
-![Register](./screenshots/Register.png)
+![Register](./Screenshots/Register.png)
 
 - **Email Activation**
-![Activation](./screenshots/Activation.png)
+![Activation](./Screenshots/Activation.png)
 
 ---
 
 ### 📊 **Dashboard**
-![Dashboard](./screenshots/Dashboard.png)
+![Dashboard](./Screenshots/Dashboard.png)
 
 ---
 
 ### 💰 **Income & Expenses**
 - **Income Management**
-![Income](./screenshots/Income.png)
+![Income](./Screenshots/Income.png)
 
 - **Expense Management**
-![Expense](./screenshots/Expense.png)
+![Expense](./Screenshots/Expense.png)
 
 ---
 
 ### 🗂 **Categories**
-![Categories](./screenshots/Categories.png)
+![Categories](./Screenshots/Categories.png)
 
 ---
 
 ### 🔍 **Filters**
-![Filter](./screenshots/Filter.png)
+![Filter](./Screenshots/Filter.png)
 
 ---
 
 ### 📅 **Daily Summary & Remainders**
 - **Daily Summary**
-![Daily Summary](./screenshots/DialySummary.png)
+![Daily Summary](./Screenshots/DialySummary.png)
 
 - **Remainder**
-![Remainder](./screenshots/Remainder.png)
+![Remainder](./Screenshots/Remainder.png)
 
 ---
 
 ### 📤 **Reports**
-![Report](./screenshots/Report.png)
+![Report](./Screenshots/Report.png)
 
 ---
 
 ### 🖼 **Logo**
-![Logo](./screenshots/logo.jpeg)
-
+![Logo](./Screenshots/logo.jpeg)
