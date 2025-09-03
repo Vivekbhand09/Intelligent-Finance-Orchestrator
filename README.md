@@ -143,5 +143,3 @@
 
 ---
 
-### 🖼 **Logo**
-![Logo](./Screenshots/logo.jpeg)
