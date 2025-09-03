@@ -84,6 +84,65 @@
 - **Download as Excel (Apache POI)**
 - **Send via Email**
 
+---
 
-## 📸 **Screenshots**  
+## 📸 **Screenshots**
+
+### 🏠 **Hero Section**
+![Hero Section](./screenshots/HeroSection.png)
+
+---
+
+### 🔐 **Authentication**
+- **Login Page**
+![Login](./screenshots/Login.png)
+
+- **Register Page**
+![Register](./screenshots/Register.png)
+
+- **Email Activation**
+![Activation](./screenshots/Activation.png)
+
+---
+
+### 📊 **Dashboard**
+![Dashboard](./screenshots/Dashboard.png)
+
+---
+
+### 💰 **Income & Expenses**
+- **Income Management**
+![Income](./screenshots/Income.png)
+
+- **Expense Management**
+![Expense](./screenshots/Expense.png)
+
+---
+
+### 🗂 **Categories**
+![Categories](./screenshots/Categories.png)
+
+---
+
+### 🔍 **Filters**
+![Filter](./screenshots/Filter.png)
+
+---
+
+### 📅 **Daily Summary & Remainders**
+- **Daily Summary**
+![Daily Summary](./screenshots/DialySummary.png)
+
+- **Remainder**
+![Remainder](./screenshots/Remainder.png)
+
+---
+
+### 📤 **Reports**
+![Report](./screenshots/Report.png)
+
+---
+
+### 🖼 **Logo**
+![Logo](./screenshots/logo.jpeg)
 
